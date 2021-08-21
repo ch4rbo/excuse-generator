@@ -1,11 +1,18 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
+let who = ['El Perro','Mi Abuela','Su tortuga','Mi pajaro'];
+let action = ['comió','orinó','aplastó','rompió'];
+let what = ['mi tarea', 'las llaves', 'mi ferrari'];
+let when = ['antes de clases','justo a tiempo','cuando dormía'];
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+function theExcuseGenerator(){
+  who.length
+  action.length
+  what.length
+  when.length
 
-window.onload = function() {
-  //write your code here
-  console.log("Hello Rigo from the console!");
-};
+
+}
+
+
+
+
+Math.random(Math.random()
